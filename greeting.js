@@ -4,3 +4,4 @@ var greeting = function(rtm, channel){
 };
 
 module.exports = greeting;
+module.exports = square;
